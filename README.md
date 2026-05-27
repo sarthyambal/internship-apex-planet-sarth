@@ -21,7 +21,7 @@ apexplanet-task1/
 
 🌐 Live Demo
 
-Screen recording uploaded to LinkedIn — see Featured section on my profile.
+Screen recording uploaded to LinkedIn —[ see Featured section on my profile.](https://www.linkedin.com/posts/sarth-yambal-689611373_internship-webdev-html-ugcPost-7464741140274126848-z2_i/?utm_source=share&utm_medium=member_android&rcm=ACoAAFx2E4kBPNGdvD4e9mVC2aiH3nEj6vYqGsg)
 
 
 👤 Author
